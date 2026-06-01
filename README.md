@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:010508,40:0A1F30,100:0C4D7A&text=Clayton%20Medeiros&fontColor=FFFFFF&fontSize=45&animation=fadeIn&fontAlignY=40"/>
 
-<h3 align="center">
-Data Analyst • Business Intelligence • Data Engineering
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=3000&color=FFD700&center=true&vCenter=true&width=700&lines=Data+Analyst+•+Business+Intelligence+•+Data+Engineering" />
+</p>
 
 <p align="center">
 
