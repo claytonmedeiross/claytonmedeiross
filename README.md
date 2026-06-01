@@ -3,7 +3,6 @@
 <a href="https://www.linkedin.com/in/clayton-a-medeiros-124610166/">
 <img src="https://img.shields.io/badge/LinkedIn-0C4D7A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:claytonmedeiros.a@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-0A1F30?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
