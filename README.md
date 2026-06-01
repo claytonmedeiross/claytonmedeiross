@@ -70,13 +70,26 @@ Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que
 
 <p align="left">
 
+<!-- Azure -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
 
+<!-- Apache Spark -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="50"/>
 
+<!-- Databricks -->
+<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="50"/>
+
+<!-- Git -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 
+<!-- GitHub -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+
+<!-- Docker -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+
+<!-- Linux -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
 
 </p>
 
