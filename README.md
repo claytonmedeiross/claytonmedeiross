@@ -21,11 +21,15 @@ Data Analyst • Business Intelligence • Data Engineering
     <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst;Business+Intelligence;Power+BI+Developer;Python+Developer;Data+Engineering;Artificial+Intelligence&center=true&width=1000&height=60&color=0C4D7A&size=28"/>
 </p>
 ---
+
 # 💻 Sobre Mim
+
 ```txt
+
 ╔════════════════════════════════════════════════════════════╗
 ║ DATA ANALYST | DATA ENGINEERING | BUSINESS INTELLIGENCE    ║
 ╚════════════════════════════════════════════════════════════╝
+
 ```
 Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que transformam dados em insights estratégicos por meio de Power BI, SQL e Python. Tenho como objetivo evoluir constantemente, explorando tecnologias modernas voltadas para Engenharia de Dados, Cloud Computing, Inteligência Artificial e Automação. Acredito que a combinação entre dados, tecnologia e aprendizado contínuo é a base para criar soluções capazes de gerar impacto real nos negócios...
 ---
