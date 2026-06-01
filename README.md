@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:010508,40:0A1F30,100:0C4D7A&text=Clayton%20Medeiros&fontColor=FFFFFF&fontSize=45&animation=fadeIn&fontAlignY=40"/>
-
 <p align="center">
-
 <a href="https://www.linkedin.com/in/clayton-a-medeiros-124610166/">
 <img src="https://img.shields.io/badge/LinkedIn-0C4D7A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
