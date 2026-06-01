@@ -20,7 +20,6 @@ Data Analyst • Business Intelligence • Data Engineering
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst;Business+Intelligence;Power+BI+Developer;Python+Developer;Data+Engineering;Artificial+Intelligence&center=true&width=1000&height=60&color=0C4D7A&size=28"/>
 </p>
----
 
 # 💻 Sobre Mim
 
