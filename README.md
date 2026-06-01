@@ -1,3 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:010508,40:0A1F30,100:0C4D7A"/>
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=2500&color=FFD700&center=true&vCenter=true&width=900&height=80&lines=Clayton+Medeiros;Data+Analyst;Business+Intelligence;Data+Engineering;Artificial+Intelligence"/>
+</p>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:010508,40:0A1F30,100:0C4D7A&text=Clayton%20Medeiros&fontColor=FFFFFF&fontSize=45&animation=fadeIn&fontAlignY=40"/>
 <p align="center">
 <a href="https://www.linkedin.com/in/clayton-a-medeiros-124610166/">
