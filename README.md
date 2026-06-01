@@ -19,7 +19,7 @@
 💻 Sobre Mim
 ```
 ```
-Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que transformam dados em insights estratégicos por meio de Power BI, SQL e Python. Tenho como objetivo evoluir constantemente, explorando tecnologias modernas voltadas para Engenharia de Dados, Cloud Computing, Inteligência Artificial e Automação. Acredito que a combinação entre dados, tecnologia e aprendizado contínuo é a base para criar soluções capazes de gerar impacto real nos negócios...
+Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que transformam dados em insights estratégicos por meio de Python, SQL, Power BI e Varias outras Ferramentas. Tenho como objetivo evoluir constantemente, explorando tecnologias modernas voltadas para Engenharia de Dados, Cloud Computing, Inteligência Artificial e Automação. Acredito que a combinação entre dados, tecnologia e aprendizado contínuo é a base para criar soluções capazes de gerar impacto real nos negócios...
 ---
 🚀 Tecnologias
 
