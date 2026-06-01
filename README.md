@@ -47,7 +47,9 @@ Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
 
 </p>
+
 ---
+
 ### 🗄️ Banco de Dados
 
 <p align="left">
@@ -57,7 +59,9 @@ Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 
 </p>
+
 ---
+
 ### ☁️ Data Engineering
 
 <p align="left">
@@ -71,6 +75,7 @@ Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 
 </p>
+
 ---
 # 🎯 Áreas de Interesse
 
