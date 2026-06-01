@@ -13,7 +13,7 @@ Data Analyst • Business Intelligence • Data Engineering
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=https://github.com/claytonmedeiross&color=00D9FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=claytonmedeiross&color=00D9FF&style=for-the-badge"/>
 </p>
 
 ---
