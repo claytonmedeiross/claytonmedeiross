@@ -16,14 +16,14 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Clayton+Medeiros;Data+Analyst;Business+Intelligence;Power+BI+Developer;Python+Developer;Data+Engineering;Artificial+Intelligence&center=true&width=1000&height=60&color=FFD700&size=28"/>
 </p>
 
-##💻 Sobre Mim
+💻 Sobre Mim
 ```
 ```
 Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que transformam dados em insights estratégicos por meio de Power BI, SQL e Python. Tenho como objetivo evoluir constantemente, explorando tecnologias modernas voltadas para Engenharia de Dados, Cloud Computing, Inteligência Artificial e Automação. Acredito que a combinação entre dados, tecnologia e aprendizado contínuo é a base para criar soluções capazes de gerar impacto real nos negócios...
 ---
-# 🚀 Tecnologias
+🚀 Tecnologias
 
-### 📊 Analytics & BI
+📊 Analytics & BI
 
 <p align="left">
 
@@ -39,7 +39,7 @@ Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que
 
 ---
 
-### 🗄️ Banco de Dados
+🗄️ Banco de Dados
 
 <p align="left">
 
@@ -55,7 +55,7 @@ Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que
 
 ---
 
-### ☁️ Data Engineering
+☁️ Data Engineering
 
 <p align="left">
 
@@ -80,7 +80,7 @@ Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que
 </p>
 
 ---
-# 🎯 Áreas de Interesse
+🎯 Áreas de Interesse
 
 - Engenharia de Dados
 - Inteligência Artificial (AI)
@@ -101,13 +101,13 @@ Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que
 - Data Governance
 - MLOps
 ---
-# 📂 Projetos em Destaque
+📂 Projetos em Destaque
 
-### ☁️ Pipeline Azure + Databricks
+☁️ Pipeline Azure + Databricks
 
 Projeto de ingestão de dados utilizando Azure Storage, Data Lake e processamento com Spark.
 ---
-### 🌎 Mapeamento de Obras
+🌎 Mapeamento de Obras
 
 Análise geográfica de obras para prospecção comercial utilizando Python e Power BI.
 ---
@@ -115,7 +115,7 @@ Análise geográfica de obras para prospecção comercial utilizando Python e Po
 
 Desenvolvimento de dashboards estratégicos para acompanhamento de clientes, faturamento e retenção.
 ---
-### 📈 Análise Financeira de FIIs
+📈 Análise Financeira de FIIs
 
 Aplicação desenvolvida em Python e Streamlit para análise de fundos imobiliários.
 ---
