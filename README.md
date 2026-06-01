@@ -88,9 +88,6 @@ Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que
 <!-- Docker -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 
-<!-- Linux -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-
 </p>
 
 ---
