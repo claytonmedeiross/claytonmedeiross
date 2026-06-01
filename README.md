@@ -17,26 +17,18 @@ Data Analyst • Business Intelligence • Data Engineering
 </p>
 
 ---
-
 <p align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analista+de+Dados;Business+Intelligence;Power+BI+Developer;Python+Developer;Azure+Data+Engineering;Databricks+Student&center=true&width=1000&height=60&color=00D9FF&size=28)]
-
 </p>
-
 ---
-
 # 💻 Sobre Mim
-
 ```txt
 ╔════════════════════════════════════════════════════════════╗
 ║ DATA ANALYST | DATA ENGINEERING | BUSINESS INTELLIGENCE    ║
 ╚════════════════════════════════════════════════════════════╝
 ```
 Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que transformam dados em insights estratégicos por meio de Power BI, SQL e Python. Tenho como objetivo evoluir constantemente, explorando tecnologias modernas voltadas para Engenharia de Dados, Cloud Computing, Inteligência Artificial e Automação. Acredito que a combinação entre dados, tecnologia e aprendizado contínuo é a base para criar soluções capazes de gerar impacto real nos negócios...
-
 ---
-
 # 🚀 Tecnologias
 
 ### 📊 Analytics & BI
@@ -52,9 +44,7 @@ Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
 
 </p>
-
 ---
-
 ### 🗄️ Banco de Dados
 
 <p align="left">
@@ -64,9 +54,7 @@ Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 
 </p>
-
 ---
-
 ### ☁️ Data Engineering
 
 <p align="left">
@@ -80,9 +68,7 @@ Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 
 </p>
-
 ---
-
 # 🎯 Áreas de Interesse
 
 - Engenharia de Dados
@@ -103,35 +89,25 @@ Apaixonado por dados, tecnologia e inovação. Atuo desenvolvendo soluções que
 - Business Intelligence
 - Data Governance
 - MLOps
-
 ---
-
 # 📂 Projetos em Destaque
 
 ### ☁️ Pipeline Azure + Databricks
 
 Projeto de ingestão de dados utilizando Azure Storage, Data Lake e processamento com Spark.
-
 ---
-
 ### 🌎 Mapeamento de Obras
 
 Análise geográfica de obras para prospecção comercial utilizando Python e Power BI.
-
 ---
-
 ### 📊 Dashboard de Indicadores
 
 Desenvolvimento de dashboards estratégicos para acompanhamento de clientes, faturamento e retenção.
-
 ---
-
 ### 📈 Análise Financeira de FIIs
 
 Aplicação desenvolvida em Python e Streamlit para análise de fundos imobiliários.
-
 ---
-
 # 🔥 Streak
 
 <p align="center">
@@ -139,7 +115,6 @@ Aplicação desenvolvida em Python e Streamlit para análise de fundos imobiliá
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
 # ⚡ Mentalidade
@@ -158,13 +133,11 @@ while True:
     if decisao:
         crescer()
 ```
-
 ---
-
 <p align="center">
 
 "Transformando dados em decisões e decisões em resultados."
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F0F0F,100:00D9FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:010508,40:0A1F30,100:0C4D7A"/>
