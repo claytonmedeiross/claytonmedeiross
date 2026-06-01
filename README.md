@@ -173,17 +173,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight"/>
 
 </p>
-
----
-
-# 🐍 Contribuições
-
-<p align="center">
-
-<img src="https://github.com/claytonmedeiross/claytonmedeiross/blob/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
 ---
 
 # ⚡ Mentalidade
