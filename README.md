@@ -18,7 +18,9 @@ Data Analyst • Business Intelligence • Data Engineering
 
 ---
 <p align="center">
+    
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analista+de+Dados;Business+Intelligence;Power+BI+Developer;Python+Developer;Azure+Data+Engineering;Databricks+Student&center=true&width=1000&height=60&color=00D9FF&size=28)]
+
 </p>
 ---
 # 💻 Sobre Mim
