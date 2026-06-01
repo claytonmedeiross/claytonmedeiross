@@ -180,7 +180,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&
 
 <p align="center">
 
-<img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github.com/claytonmedeiross/claytonmedeiross/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
