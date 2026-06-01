@@ -146,16 +146,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
 # 🔥 Streak
 
 <p align="center">
@@ -164,15 +154,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&
 
 </p>
 
----
-
-# 📊 Atividade
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight"/>
-
-</p>
 ---
 
 # ⚡ Mentalidade
