@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:010508,40:0A1F30,100:0C4D7A"/>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=2500&color=FFD700&center=true&vCenter=true&width=900&height=80&lines=Clayton+Medeiros;Data+Analyst;Business+Intelligence;Data+Engineering;Artificial+Intelligence"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=2500&color=FFD700&center=true&vCenter=true&width=100&height=80&lines=Clayton+Medeiros;Data+Analyst;Business+Intelligence;Data+Engineering;Artificial+Intelligence"/>
 </p>
 </p>
 <p align="center">
